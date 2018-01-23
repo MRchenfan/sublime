@@ -1,0 +1,1130 @@
+{
+	"folder_history":
+	[
+		"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1",
+		"/C/Users/damon/Desktop/xingyun_datibao/build-xingyun_datibao_launcher_mgw-Desktop_Qt_5_6_3_MinGW_32bit-Release/xy_datibao",
+		"/C/Users/damon/Desktop/xingyun_datibao/datibao_launcher_xingyun",
+		"/C/Users/damon/Desktop/tsd_video_timeline_capture/localhost_server",
+		"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.4.8-vcom",
+		"/C/Users/damon/Desktop/xue_er_si/xes_node_ffi",
+		"/C/ITSClient/ITS/ITS-win32-x64/resources/app",
+		"/C/ITSClient/ITS/ITS-win32-x64/resources",
+		"/C/Users/damon/Desktop/xue_er_si/node-hid",
+		"/C/Users/damon/Desktop/xue_er_si/xes_node_addon",
+		"/C/Users/damon/Desktop/xue_er_si/xes_nw_addon",
+		"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1_address_write",
+		"/C/Users/damon/Desktop/STM8L15x-16x-05x-AL31-L_StdPeriph_Lib/datibao_lcd/datibao_lcd",
+		"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.4.8_product_tsd",
+		"/C/Users/damon/Desktop/prev_version_xue_er_si/xes_node_addon",
+		"/C/Users/damon/Desktop/works/datibao_launcher",
+		"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.4.8_product",
+		"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.4.8",
+		"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0_production",
+		"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.7.0",
+		"/C/Users/damon/Desktop/xue_er_si/lcd_xueersi",
+		"/C/Users/damon/Desktop/works/iap_V1.1",
+		"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0",
+		"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V5.0.0",
+		"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0",
+		"/C/Users/damon/Desktop/xue_er_si/station_new_V4.5.0",
+		"/C/Users/damon/Desktop/works/websocket_demo",
+		"/C/Users/damon/Desktop/讯飞版本发布/websocket_demo",
+		"/C/Users/damon/Desktop/STM8L15x-16x-05x-AL31-L_StdPeriph_Lib/datibao_lcd/lcd_v0.7.8-xingyun-china-mobile",
+		"/C/Users/damon/Desktop/STM8L15x-16x-05x-AL31-L_StdPeriph_Lib/datibao_lcd/lcd_v0.7.0",
+		"/C/Users/damon/Desktop/works/xy_datibao"
+	],
+	"last_version": 3143,
+	"last_window_id": 80,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 478.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"nrf",
+						"nrf_Rx_Buf"
+					],
+					[
+						"read",
+						"readerId"
+					],
+					[
+						"uin",
+						"uint8_t"
+					],
+					[
+						"nrftx",
+						"nrf_Tx_Buf"
+					],
+					[
+						"reeei",
+						"Receive_Buffer"
+					],
+					[
+						"upgrade_send",
+						"current_upgrade_send"
+					],
+					[
+						"nrfrxbu",
+						"nrf_Rx_Buf"
+					],
+					[
+						"ID_",
+						"ID_DetectEn"
+					],
+					[
+						"reply_delay",
+						"REPLY_DELAY"
+					],
+					[
+						"card_arr_up",
+						"card_arr_update_print_data_2"
+					],
+					[
+						"print",
+						"print_data_1"
+					],
+					[
+						"uint",
+						"uint8_t"
+					],
+					[
+						"nrf_reinit_fla",
+						"nrf_reinit_flag"
+					],
+					[
+						"nrf_tx_bu",
+						"nrf_Tx_Buf"
+					],
+					[
+						"replydela",
+						"REPLY_DELAY"
+					],
+					[
+						"comm-",
+						"comm-html\tComment - HTML comment"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "k",
+				"selected_items":
+				[
+					[
+						"k",
+						"Preferences: Key Bindings"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"prefer",
+						"Preferences: Settings"
+					],
+					[
+						"remove packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"doc",
+						"DocBlockr: Reparse comment block"
+					],
+					[
+						"commenet",
+						"Snippet: Comment - Section header comment"
+					],
+					[
+						"comm",
+						"Toggle Comment"
+					],
+					[
+						"setting",
+						"Preferences: Settings"
+					],
+					[
+						"settings",
+						"Preferences: Settings"
+					],
+					[
+						"material",
+						"Material Theme: Activate theme"
+					]
+				],
+				"width": 444.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/damon/Desktop/xingyun_datibao/datibao_launcher_xingyun/mymainwindow.h",
+				"/C/Users/damon/Desktop/xingyun_datibao/datibao_launcher_xingyun/main.cpp",
+				"/C/Users/damon/Desktop/xingyun_datibao/datibao_launcher_xingyun/mymainwindow.cpp",
+				"/C/Users/damon/Desktop/xingyun_datibao/datibao_launcher_xingyun/websocketserver.h",
+				"/C/Users/damon/Desktop/xingyun_datibao/datibao_launcher_xingyun/websocketserver.cpp",
+				"/C/Users/damon/Desktop/xingyun_datibao/datibao_launcher_xingyun/resource.pro",
+				"/C/Users/damon/Desktop/xingyun_datibao/xingyun_datibao_launcher_mgw/mainwindow.ui",
+				"/C/Users/damon/Desktop/mgw_test/test_project/AnswersCollection.h",
+				"/C/Users/damon/Desktop/xingyun_datibao/datibao_launcher_xingyun/JLAnswersCollection.h",
+				"/C/Users/damon/Desktop/tsd_video_timeline_capture/localhost_server/app.js",
+				"/C/Users/damon/Desktop/tsd_video_timeline_capture/VTC_QT_RELEASE/localhost_server/app.js",
+				"/C/ITSClient/ITS/ITS-win32-x64/resources/app/page_elec_dtq/js/common/answer/answer-tool/index.js",
+				"/C/ITSClient/ITS/ITS-win32-x64/resources/app/page_elec_dtq/js/common/answerHelper.js",
+				"/C/Users/damon/Desktop/xue_er_si/xueersi_nw_demo/package.json",
+				"/C/Users/damon/Desktop/xue_er_si/xes_node_ffi/package.json",
+				"/C/ITSClient/ITS/ITS-win32-x64/resources/package.json",
+				"/C/ITSClient/ITS/ITS-win32-x64/resources/main.js",
+				"/C/Users/damon/Desktop/xue_er_si/AnswerCollectionDLL-xue-er-si/USBdll.VC.db",
+				"/C/ITSClient/ITS/ITS-win32-x64/version",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/src/card_arr.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/src/main.c",
+				"/C/Users/damon/Desktop/xue_er_si/xes_node_ffi/node_modules/_ref@1.3.5@ref/lib/ref.js",
+				"/C/Users/damon/Desktop/xue_er_si/xes_node_ffi/node_modules/_node-ffi@0.5.7@node-ffi/example/sqlite.js",
+				"/C/Users/damon/Desktop/xue_er_si/xes_node_ffi/node_modules/_ref@1.3.5@ref/src/binding.cc",
+				"/C/Users/damon/Desktop/xue_er_si/xes_node_ffi/node_modules/_ffi@2.2.0@ffi/test/types.js",
+				"/C/Users/damon/Desktop/xue_er_si/xes_node_ffi/node_modules/_ffi@2.2.0@ffi/src/ffi.h",
+				"/C/Users/damon/Desktop/xue_er_si/xes_node_ffi/test.js",
+				"/C/Users/damon/Desktop/xue_er_si/xes_node_ffi/index.html",
+				"/C/Users/damon/Desktop/xue_er_si/xes_node_addon/package.json",
+				"/C/Users/damon/Desktop/xue_er_si/xes_node_addon/index.html",
+				"/C/Users/damon/Desktop/xue_er_si/xes_nw_addon/cardlist.h",
+				"/C/Users/damon/Desktop/xue_er_si/xes_nw_addon/AnswersCollection.h",
+				"/C/Users/damon/Desktop/xue_er_si/xes_nw_addon/binding.gyp",
+				"/C/Users/damon/Desktop/xue_er_si/xes_nw_addon/package.json",
+				"/C/Users/damon/Desktop/xue_er_si/xes_nw_addon/npm-debug.log",
+				"/C/Users/damon/Desktop/xue_er_si/xes_nw_addon/xes_dll.cc",
+				"/C/Users/damon/Desktop/xue_er_si/xes_nw_addon/index.html",
+				"/C/Users/damon/Desktop/xue_er_si/xes_nw_addon/nw-addon-test/package.json",
+				"/C/Users/damon/Desktop/xue_er_si/xes_nw_addon/nw-addon-test/index.html",
+				"/C/Users/damon/Desktop/xue_er_si/xes_nw_addon/nw-addon-test/test.js",
+				"/C/ITSClient/ITS/ITS-win32-x64/answertool/.students.json",
+				"/C/Users/damon/Desktop/hosts",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Users/damon/学生名单",
+				"/C/Users/damon/Desktop/xue_er_si/交付文件夹/XES_20170916/websocket_client_sdk/xueersi_nw_demo/index.js",
+				"/C/Users/damon/Desktop/xue_er_si/交付文件夹/XES_20170913.2/websocket_client_sdk/xueersi_nw_demo/index.js",
+				"/C/Users/damon/Desktop/xue_er_si/qt_demo_xue_er_si/qt_demo_xue_er_si/学生名单生成脚本.js",
+				"/C/Users/damon/Desktop/STM8L15x-16x-05x-AL31-L_StdPeriph_Lib/datibao_lcd/datibao_lcd/modes/digital/digital.c",
+				"/C/Users/damon/Desktop/STM8L15x-16x-05x-AL31-L_StdPeriph_Lib/datibao_lcd/datibao_lcd/common/answer.c",
+				"/C/Users/damon/Desktop/STM8L15x-16x-05x-AL31-L_StdPeriph_Lib/datibao_lcd/datibao_lcd/common/answer.h",
+				"/C/Users/damon/Desktop/STM8L15x-16x-05x-AL31-L_StdPeriph_Lib/datibao_lcd/datibao_lcd/modes/digital/digital.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.4.8_product_tsd/inc/main.h",
+				"/C/Users/damon/Desktop/xue_er_si/qt_demo_xue_er_si/qt_demo_xue_er_si/学生名单",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/inc/card_arr.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/inc/main.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/src/stm32_it.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/inc/nrf24l01.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/src/usb_desc.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/src/broadcast.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/src/nrf24l01.c",
+				"/C/Users/damon/log.txt",
+				"/C/Users/damon/学生名单-21",
+				"/C/Users/damon/Desktop/学生名单",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/src/FIFO.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/src/usb_endp.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.4.8_product/src/usb_endp.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.4.8_product/inc/stm32_it.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/src/ID.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/inc/usb_istr.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/src/usb_istr.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.4.8/src/usb_endp.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.4.8/src/stm32_it.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.4.8/src/main.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/src/flash.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.4.8/src/FIFO.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/inc/flash.h",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Commitment/Default (Windows).sublime-keymap",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/inc/main.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/src/system_stm32f10x.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/inc/flash.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/flash.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/inc/nrf24l01.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/inc/broadcast.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/broadcast.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/stm32_it.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/ID.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/nrf24l01.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/inc/platform_config.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/main.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/usb_prop.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/usb_desc.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/usb_endp.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/FIFO.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/inc/usb_prop.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/inc/usb_desc.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/hw_config.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/usb_istr.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/usb_pwr.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/inc/usb_pwr.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/time.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/inc/card_arr.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/card_arr.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/inc/ID.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/broadcast.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/stm32_it.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/nrf24l01.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/ID.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/FIFO.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/inc/FIFO.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/main.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/inc/main.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/hw_config.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/usb_pwr.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/usb_prop.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/usb_istr.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/usb_desc.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/system_stm32f10x.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/inc/usb_pwr.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/inc/usb_prop.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/inc/usb_istr.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/inc/usb_desc.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/usart.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/inc/usb_conf.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/inc/usart.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/main-old.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/flash.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/inc/flash.h"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 164.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Lib_",
+					"func_",
+					"MainWindow"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 70.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"card_arr.h",
+						"inc\\card_arr.h"
+					],
+					[
+						"usb_endp",
+						"src\\usb_endp.c"
+					],
+					[
+						"main.c",
+						"src\\main.c"
+					],
+					[
+						"usb",
+						"src\\usb_endp.c"
+					],
+					[
+						"stmit",
+						"src\\stm32_it.c"
+					],
+					[
+						"usb_conf",
+						"inc\\usb_conf.h"
+					],
+					[
+						"hw_config.c",
+						"src\\hw_config.c"
+					],
+					[
+						"card_.h",
+						"inc\\card_arr.h"
+					],
+					[
+						"card_",
+						"src\\card_arr.c"
+					],
+					[
+						"nrf24l01.c",
+						"src\\nrf24l01.c"
+					],
+					[
+						"main.h",
+						"inc\\main.h"
+					],
+					[
+						"usben",
+						"src\\usb_endp.c"
+					],
+					[
+						"nrf",
+						"src\\nrf24l01.c"
+					],
+					[
+						"nrf.c",
+						"src\\nrf24l01.c"
+					],
+					[
+						"stm",
+						"src\\stm32_it.c"
+					],
+					[
+						"card_arr.c",
+						"src\\card_arr.c"
+					],
+					[
+						"card_.c",
+						"src\\card_arr.c"
+					],
+					[
+						"stmit.c",
+						"src\\stm32_it.c"
+					],
+					[
+						"it",
+						"inc\\stm32_it.h"
+					],
+					[
+						"nrfc",
+						"src\\nrf24l01.c"
+					],
+					[
+						"nrf24",
+						"src\\nrf24l01.c"
+					],
+					[
+						"usbend",
+						"src\\usb_endp.c"
+					],
+					[
+						"usb_end",
+						"src\\usb_endp.c"
+					],
+					[
+						"card_arr",
+						"inc\\card_arr.h"
+					],
+					[
+						"nrf.h",
+						"inc\\nrf24l01.h"
+					],
+					[
+						"usb_en",
+						"src\\usb_endp.c"
+					],
+					[
+						"flash.h",
+						"inc\\flash.h"
+					],
+					[
+						"flash.c",
+						"src\\flash.c"
+					],
+					[
+						"nrf24.h",
+						"inc\\nrf24l01.h"
+					],
+					[
+						"flash",
+						"inc\\flash.h"
+					],
+					[
+						"display.c",
+						"common\\display.c"
+					],
+					[
+						"info",
+						"modes\\info\\info.c"
+					],
+					[
+						"font",
+						"LCD\\font.h"
+					],
+					[
+						"mainc",
+						"main.c"
+					],
+					[
+						"",
+						"main.h"
+					],
+					[
+						"main",
+						"main.h"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 273.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"nrf",
+						"nrf_Rx_Buf"
+					],
+					[
+						"read",
+						"readerId"
+					],
+					[
+						"uin",
+						"uint8_t"
+					],
+					[
+						"nrftx",
+						"nrf_Tx_Buf"
+					],
+					[
+						"reeei",
+						"Receive_Buffer"
+					],
+					[
+						"upgrade_send",
+						"current_upgrade_send"
+					],
+					[
+						"nrfrxbu",
+						"nrf_Rx_Buf"
+					],
+					[
+						"ID_",
+						"ID_DetectEn"
+					],
+					[
+						"reply_delay",
+						"REPLY_DELAY"
+					],
+					[
+						"card_arr_up",
+						"card_arr_update_print_data_2"
+					],
+					[
+						"print",
+						"print_data_1"
+					],
+					[
+						"uint",
+						"uint8_t"
+					],
+					[
+						"nrf_reinit_fla",
+						"nrf_reinit_flag"
+					],
+					[
+						"nrf_tx_bu",
+						"nrf_Tx_Buf"
+					],
+					[
+						"replydela",
+						"REPLY_DELAY"
+					],
+					[
+						"comm-",
+						"comm-html\tComment - HTML comment"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "k",
+				"selected_items":
+				[
+					[
+						"k",
+						"Preferences: Key Bindings"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"prefer",
+						"Preferences: Settings"
+					],
+					[
+						"remove packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"doc",
+						"DocBlockr: Reparse comment block"
+					],
+					[
+						"commenet",
+						"Snippet: Comment - Section header comment"
+					],
+					[
+						"comm",
+						"Toggle Comment"
+					],
+					[
+						"setting",
+						"Preferences: Settings"
+					],
+					[
+						"settings",
+						"Preferences: Settings"
+					],
+					[
+						"material",
+						"Material Theme: Activate theme"
+					]
+				],
+				"width": 444.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/damon/Desktop/xingyun_datibao/datibao_launcher_xingyun"
+			],
+			"file_history":
+			[
+				"/C/Users/damon/Desktop/xingyun_datibao/datibao_launcher_xingyun/mymainwindow.h",
+				"/C/Users/damon/Desktop/xingyun_datibao/datibao_launcher_xingyun/main.cpp",
+				"/C/Users/damon/Desktop/xingyun_datibao/datibao_launcher_xingyun/mymainwindow.cpp",
+				"/C/Users/damon/Desktop/xingyun_datibao/datibao_launcher_xingyun/websocketserver.h",
+				"/C/Users/damon/Desktop/xingyun_datibao/datibao_launcher_xingyun/websocketserver.cpp",
+				"/C/Users/damon/Desktop/xingyun_datibao/datibao_launcher_xingyun/resource.pro",
+				"/C/Users/damon/Desktop/xingyun_datibao/xingyun_datibao_launcher_mgw/mainwindow.ui",
+				"/C/Users/damon/Desktop/mgw_test/test_project/AnswersCollection.h",
+				"/C/Users/damon/Desktop/xingyun_datibao/datibao_launcher_xingyun/JLAnswersCollection.h",
+				"/C/Users/damon/Desktop/tsd_video_timeline_capture/localhost_server/app.js",
+				"/C/Users/damon/Desktop/tsd_video_timeline_capture/VTC_QT_RELEASE/localhost_server/app.js",
+				"/C/ITSClient/ITS/ITS-win32-x64/resources/app/page_elec_dtq/js/common/answer/answer-tool/index.js",
+				"/C/ITSClient/ITS/ITS-win32-x64/resources/app/page_elec_dtq/js/common/answerHelper.js",
+				"/C/Users/damon/Desktop/xue_er_si/xueersi_nw_demo/package.json",
+				"/C/Users/damon/Desktop/xue_er_si/xes_node_ffi/package.json",
+				"/C/ITSClient/ITS/ITS-win32-x64/resources/package.json",
+				"/C/ITSClient/ITS/ITS-win32-x64/resources/main.js",
+				"/C/Users/damon/Desktop/xue_er_si/AnswerCollectionDLL-xue-er-si/USBdll.VC.db",
+				"/C/ITSClient/ITS/ITS-win32-x64/version",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/src/card_arr.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/src/main.c",
+				"/C/Users/damon/Desktop/xue_er_si/xes_node_ffi/node_modules/_ref@1.3.5@ref/lib/ref.js",
+				"/C/Users/damon/Desktop/xue_er_si/xes_node_ffi/node_modules/_node-ffi@0.5.7@node-ffi/example/sqlite.js",
+				"/C/Users/damon/Desktop/xue_er_si/xes_node_ffi/node_modules/_ref@1.3.5@ref/src/binding.cc",
+				"/C/Users/damon/Desktop/xue_er_si/xes_node_ffi/node_modules/_ffi@2.2.0@ffi/test/types.js",
+				"/C/Users/damon/Desktop/xue_er_si/xes_node_ffi/node_modules/_ffi@2.2.0@ffi/src/ffi.h",
+				"/C/Users/damon/Desktop/xue_er_si/xes_node_ffi/test.js",
+				"/C/Users/damon/Desktop/xue_er_si/xes_node_ffi/index.html",
+				"/C/Users/damon/Desktop/xue_er_si/xes_node_addon/package.json",
+				"/C/Users/damon/Desktop/xue_er_si/xes_node_addon/index.html",
+				"/C/Users/damon/Desktop/xue_er_si/xes_nw_addon/cardlist.h",
+				"/C/Users/damon/Desktop/xue_er_si/xes_nw_addon/AnswersCollection.h",
+				"/C/Users/damon/Desktop/xue_er_si/xes_nw_addon/binding.gyp",
+				"/C/Users/damon/Desktop/xue_er_si/xes_nw_addon/package.json",
+				"/C/Users/damon/Desktop/xue_er_si/xes_nw_addon/npm-debug.log",
+				"/C/Users/damon/Desktop/xue_er_si/xes_nw_addon/xes_dll.cc",
+				"/C/Users/damon/Desktop/xue_er_si/xes_nw_addon/index.html",
+				"/C/Users/damon/Desktop/xue_er_si/xes_nw_addon/nw-addon-test/package.json",
+				"/C/Users/damon/Desktop/xue_er_si/xes_nw_addon/nw-addon-test/index.html",
+				"/C/Users/damon/Desktop/xue_er_si/xes_nw_addon/nw-addon-test/test.js",
+				"/C/ITSClient/ITS/ITS-win32-x64/answertool/.students.json",
+				"/C/Users/damon/Desktop/hosts",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Users/damon/学生名单",
+				"/C/Users/damon/Desktop/xue_er_si/交付文件夹/XES_20170916/websocket_client_sdk/xueersi_nw_demo/index.js",
+				"/C/Users/damon/Desktop/xue_er_si/交付文件夹/XES_20170913.2/websocket_client_sdk/xueersi_nw_demo/index.js",
+				"/C/Users/damon/Desktop/xue_er_si/qt_demo_xue_er_si/qt_demo_xue_er_si/学生名单生成脚本.js",
+				"/C/Users/damon/Desktop/STM8L15x-16x-05x-AL31-L_StdPeriph_Lib/datibao_lcd/datibao_lcd/modes/digital/digital.c",
+				"/C/Users/damon/Desktop/STM8L15x-16x-05x-AL31-L_StdPeriph_Lib/datibao_lcd/datibao_lcd/common/answer.c",
+				"/C/Users/damon/Desktop/STM8L15x-16x-05x-AL31-L_StdPeriph_Lib/datibao_lcd/datibao_lcd/common/answer.h",
+				"/C/Users/damon/Desktop/STM8L15x-16x-05x-AL31-L_StdPeriph_Lib/datibao_lcd/datibao_lcd/modes/digital/digital.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.4.8_product_tsd/inc/main.h",
+				"/C/Users/damon/Desktop/xue_er_si/qt_demo_xue_er_si/qt_demo_xue_er_si/学生名单",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/inc/card_arr.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/inc/main.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/src/stm32_it.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/inc/nrf24l01.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/src/usb_desc.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/src/broadcast.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/src/nrf24l01.c",
+				"/C/Users/damon/log.txt",
+				"/C/Users/damon/学生名单-21",
+				"/C/Users/damon/Desktop/学生名单",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/src/FIFO.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/src/usb_endp.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.4.8_product/src/usb_endp.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.4.8_product/inc/stm32_it.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/src/ID.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/inc/usb_istr.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/src/usb_istr.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.4.8/src/usb_endp.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.4.8/src/stm32_it.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.4.8/src/main.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/src/flash.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.4.8/src/FIFO.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/inc/flash.h",
+				"/C/Program Files/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Program Files/Sublime Text 3/Data/Packages/Commitment/Default (Windows).sublime-keymap",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/inc/main.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.1/src/system_stm32f10x.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/inc/flash.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/flash.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/inc/nrf24l01.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/inc/broadcast.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/broadcast.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/stm32_it.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/ID.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/nrf24l01.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/inc/platform_config.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/main.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/usb_prop.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/usb_desc.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/usb_endp.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/FIFO.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/inc/usb_prop.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/inc/usb_desc.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/hw_config.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/usb_istr.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/usb_pwr.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/inc/usb_pwr.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/time.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/inc/card_arr.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/src/card_arr.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.6.0/inc/ID.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/broadcast.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/stm32_it.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/nrf24l01.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/ID.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/FIFO.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/inc/FIFO.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/main.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/inc/main.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/hw_config.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/usb_pwr.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/usb_prop.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/usb_istr.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/usb_desc.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/system_stm32f10x.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/inc/usb_pwr.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/inc/usb_prop.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/inc/usb_istr.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/inc/usb_desc.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/usart.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/inc/usb_conf.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/inc/usart.h",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/main-old.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/src/flash.c",
+				"/C/Users/damon/Desktop/xue_er_si/stm32_projects/station_new_V4.5.0/inc/flash.h"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 164.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Lib_",
+					"func_",
+					"MainWindow"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\damon\\Desktop\\xingyun_datibao\\datibao_launcher_xingyun"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 70.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,729,880,193,1536",
+			"project": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"card_arr.h",
+						"inc\\card_arr.h"
+					],
+					[
+						"usb_endp",
+						"src\\usb_endp.c"
+					],
+					[
+						"main.c",
+						"src\\main.c"
+					],
+					[
+						"usb",
+						"src\\usb_endp.c"
+					],
+					[
+						"stmit",
+						"src\\stm32_it.c"
+					],
+					[
+						"usb_conf",
+						"inc\\usb_conf.h"
+					],
+					[
+						"hw_config.c",
+						"src\\hw_config.c"
+					],
+					[
+						"card_.h",
+						"inc\\card_arr.h"
+					],
+					[
+						"card_",
+						"src\\card_arr.c"
+					],
+					[
+						"nrf24l01.c",
+						"src\\nrf24l01.c"
+					],
+					[
+						"main.h",
+						"inc\\main.h"
+					],
+					[
+						"usben",
+						"src\\usb_endp.c"
+					],
+					[
+						"nrf",
+						"src\\nrf24l01.c"
+					],
+					[
+						"nrf.c",
+						"src\\nrf24l01.c"
+					],
+					[
+						"stm",
+						"src\\stm32_it.c"
+					],
+					[
+						"card_arr.c",
+						"src\\card_arr.c"
+					],
+					[
+						"card_.c",
+						"src\\card_arr.c"
+					],
+					[
+						"stmit.c",
+						"src\\stm32_it.c"
+					],
+					[
+						"it",
+						"inc\\stm32_it.h"
+					],
+					[
+						"nrfc",
+						"src\\nrf24l01.c"
+					],
+					[
+						"nrf24",
+						"src\\nrf24l01.c"
+					],
+					[
+						"usbend",
+						"src\\usb_endp.c"
+					],
+					[
+						"usb_end",
+						"src\\usb_endp.c"
+					],
+					[
+						"card_arr",
+						"inc\\card_arr.h"
+					],
+					[
+						"nrf.h",
+						"inc\\nrf24l01.h"
+					],
+					[
+						"usb_en",
+						"src\\usb_endp.c"
+					],
+					[
+						"flash.h",
+						"inc\\flash.h"
+					],
+					[
+						"flash.c",
+						"src\\flash.c"
+					],
+					[
+						"nrf24.h",
+						"inc\\nrf24l01.h"
+					],
+					[
+						"flash",
+						"inc\\flash.h"
+					],
+					[
+						"display.c",
+						"common\\display.c"
+					],
+					[
+						"info",
+						"modes\\info\\info.c"
+					],
+					[
+						"font",
+						"LCD\\font.h"
+					],
+					[
+						"mainc",
+						"main.c"
+					],
+					[
+						"",
+						"main.h"
+					],
+					[
+						"main",
+						"main.h"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 273.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 75,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
